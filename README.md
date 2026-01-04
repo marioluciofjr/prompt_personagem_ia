@@ -26,14 +26,14 @@ Projeto que gerar uma ficha simples de composição de personagem
 
 
 > [!IMPORTANT]
-> Se quiser conversar sobre esse projeto, basta acessar a versão [`TalkToGitHub`](https://talktogithub.com/marioluciofjr/mcp_judge) <br>
-> Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - mcp_judge`](https://code2tutorial.com/tutorial/2a71af2f-9436-4910-8b83-3c2b18665463/index.md)
+> Se quiser conversar sobre esse projeto, basta acessar a versão [`TalkToGitHub`](https://talktogithub.com/marioluciofjr/prompt_personagem_ia) <br>
+> Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - prompt_personagem_ia`](https://code2tutorial.com/tutorial/9ebd63ce-6ac7-4b2e-883f-92e74953efde/index.md)
 
 ## Tecnologias utilizadas
 
 <div>
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/76e7aca0-5321-4238-9742-164c20af5b4a" />&nbsp;&nbsp;&nbsp
-  <img align="center" height="60" width="80" src="https://i.namu.wiki/i/kARx1nP9GHaTktx_4yTI4HXLOjmd3JZaKJkHTXgE2bv4UATWXkVlvoE6ktFO4MFI6yMcV50x6z-pisOEDBOUOQ.webp" />&nbsp;&nbsp;&nbsp
+  <img align="center" height="60" width="80" src="https://camo.githubusercontent.com/13caad70455ed743a53c3624ce9e033554f2aabc28a46c14f43e05214f963a92/68747470733a2f2f692e6e616d752e77696b692f692f6b415278316e5039474861546b74785f347954493448584c4f6a6d64334a5a614b4a6b48545867453262763455415457586b566c766f45366b74464f344d464936794d6356353078367a2d7069734f4544424f554f512e77656270" />&nbsp;&nbsp;&nbsp
  </div><br>
 
 * Python;
