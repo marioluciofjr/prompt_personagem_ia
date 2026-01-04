@@ -22,7 +22,7 @@ jobs:
 
     environment:
       name: pypi
-      url: https://pypi.org/p/prompts_personagens
+      url: https://pypi.org/p/prompt_personagem_ia
 
     permissions:
       id-token: write  # IMPORTANT: mandatory for trusted publishing
