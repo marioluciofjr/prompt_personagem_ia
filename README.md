@@ -1,5 +1,5 @@
 # prompt_personagem_ia
-Projeto que gerar uma ficha simples de composição de personagem
+Projeto que gera uma ficha simples de composição de personagem
 
 [![Made with Python](https://img.shields.io/badge/Python->=3.10-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 ![license - MIT](https://img.shields.io/badge/license-MIT-green)
