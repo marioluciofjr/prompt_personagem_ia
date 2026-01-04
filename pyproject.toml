@@ -1,5 +1,5 @@
 [project]
-name = "promppt_personagem_ia"
+name = "prompt_personagem_ia"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
