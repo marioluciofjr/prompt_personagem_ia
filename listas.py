@@ -5,9 +5,9 @@ hairstyles = [
     "short straight 1A", "medium straight 1A", "long straight 1A",
     "short straight 1B", "medium straight 1B", "long straight 1B",
     "short straight 1C", "medium straight 1C", "long straight 1C",
-    "short wave 2A", "medium wave 2A", "long wave 2A",
-    "short wave 2B", "medium wave 2B", "long wave 2B",
-    "short wave 2C", "medium wave 2C", "long wave 2C",
+    "short wavy 2A", "medium wave 2A", "long wave 2A",
+    "short wavy 2B", "medium wave 2B", "long wave 2B",
+    "short wavy 2C", "medium wave 2C", "long wave 2C",
     "short curly 3A", "medium curly 3A", "long curly 3A",
     "short curly 3B", "medium curly 3B", "long curly 3B",
     "short curly 3C", "medium curly 3C", "long curly 3C",
@@ -117,3 +117,4 @@ poses = [
     "Is ready to fight karate pose",
     "With her right leg in the air karate pose"
     ]
+
