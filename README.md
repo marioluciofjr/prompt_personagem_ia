@@ -19,11 +19,15 @@ Projeto que gera uma ficha simples de composição de personagem
 
 ## Introdução
 
-
+Este projeto é uma ferramenta em Python desenvolvida para gerar automaticamente prompts detalhados de personagens para inteligência artificial. Utilizando listas pré-definidas de atributos, o script cria descrições únicas combinando gênero, idade, tom de pele, penteado e poses variadas. Ideal para artistas e criadores que buscam inspiração rápida ou necessitam de referências visuais diversificadas para seus projetos, garantindo consistência e criatividade na geração de imagens com especificações técnicas definidas, tais como ângulo de câmera e proporção.
 
 ## Estrutura do projeto
 
+Para entender como tudo funciona, imagine que este projeto é um assistente criativo dividido em duas partes principais:
 
+*   **`listas.py`**: Pense neste arquivo como um grande catálogo ou despensa. É aqui que guardamos todas as opções disponíveis para criar um personagem, como tipos de cabelo, tons de pele, roupas e poses. Ele não toma decisões, apenas armazena as informações que serão usadas.
+
+*   **`prompt.py`**: Este é o "cérebro" da operação. Ele consulta o arquivo `listas.py`, sorteia aleatoriamente um item de cada categoria e organiza tudo em um texto coerente. É ele quem monta a "ficha" final do personagem que você receberá.
 
 > [!IMPORTANT]
 > Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - prompt_personagem_ia`](https://code2tutorial.com/tutorial/9ebd63ce-6ac7-4b2e-883f-92e74953efde/index.md)
