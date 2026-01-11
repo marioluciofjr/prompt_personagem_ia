@@ -23,7 +23,11 @@ Este projeto é uma ferramenta em Python desenvolvida para gerar automaticamente
 
 ## Estrutura do projeto
 
+Para entender como tudo funciona, imagine que este projeto é um assistente criativo dividido em duas partes principais:
 
+*   **`listas.py`**: Pense neste arquivo como um grande catálogo ou despensa. É aqui que guardamos todas as opções disponíveis para criar um personagem, como tipos de cabelo, tons de pele, roupas e poses. Ele não toma decisões, apenas armazena as informações que serão usadas.
+
+*   **`prompt.py`**: Este é o "cérebro" da operação. Ele consulta o arquivo `listas.py`, sorteia aleatoriamente um item de cada categoria e organiza tudo em um texto coerente. É ele quem monta a "ficha" final do personagem que você receberá.
 
 > [!IMPORTANT]
 > Se quiser conversar sobre esse projeto, basta acessar a versão [`TalkToGitHub`](https://talktogithub.com/marioluciofjr/prompt_personagem_ia) <br>
