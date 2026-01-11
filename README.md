@@ -19,7 +19,7 @@ Projeto que gera uma ficha simples de composição de personagem
 
 ## Introdução
 
-
+Este projeto é uma ferramenta em Python desenvolvida para gerar automaticamente prompts detalhados de personagens para inteligência artificial. Utilizando listas pré-definidas de atributos, o script cria descrições únicas combinando gênero, idade, tom de pele, penteado e poses variadas. Ideal para artistas e criadores que buscam inspiração rápida ou necessitam de referências visuais diversificadas para seus projetos, garantindo consistência e criatividade na geração de imagens com especificações técnicas definidas, tais como ângulo de câmera e proporção.
 
 ## Estrutura do projeto
 
