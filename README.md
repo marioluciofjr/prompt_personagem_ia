@@ -26,7 +26,6 @@ Projeto que gera uma ficha simples de composição de personagem
 
 
 > [!IMPORTANT]
-> Se quiser conversar sobre esse projeto, basta acessar a versão [`TalkToGitHub`](https://talktogithub.com/marioluciofjr/prompt_personagem_ia) <br>
 > Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - prompt_personagem_ia`](https://code2tutorial.com/tutorial/9ebd63ce-6ac7-4b2e-883f-92e74953efde/index.md)
 
 ## Tecnologias utilizadas
