@@ -29,6 +29,22 @@ Para entender como tudo funciona, imagine que este projeto é um assistente cria
 
 *   **`prompt.py`**: Este é o "cérebro" da operação. Ele consulta o arquivo `listas.py`, sorteia aleatoriamente um item de cada categoria e organiza tudo em um texto coerente. É ele quem monta a "ficha" final do personagem que você receberá.
 
+### Como usar no Google Colab
+
+Como o projeto está publicado no PyPI você só precisa seguir este passo a passo: 
+
+1 - Instale o projeto
+```python
+!pip install -qU prompt-personagem-ia
+```
+
+2 - Importe o pacote necessário
+```python
+from prompt import gerar_prompt
+
+gerar_prompt()
+```
+
 > [!IMPORTANT]
 > Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - prompt_personagem_ia`](https://code2tutorial.com/tutorial/9ebd63ce-6ac7-4b2e-883f-92e74953efde/index.md)
 
